@@ -101,6 +101,18 @@ a {
     margin-bottom: 15px;
 }
 
+/* card */
+.card__title {
+    font-size: 18px;
+    font-weight: bold;
+    color: #202124;
+    margin-bottom: 15px;
+}
+
+.card__text {
+    margin-bottom: 15px;
+}
+
 /* NEWS */
 
 
